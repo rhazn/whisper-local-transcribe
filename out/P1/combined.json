@@ -1,0 +1,184 @@
+[
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, then now recording is in progress. If you are fine with being recorded, let me know please.",
+        "original_ids": [
+            0
+        ],
+        "start": 0.0,
+        "end": 10.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Sure.",
+        "original_ids": [
+            0
+        ],
+        "start": 0.0,
+        "end": 9.4
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, perfect. Then we are here to talk about your favorite spots to exercise in Nuremberg. Can you start off by telling me your favorite spot to exercise?",
+        "original_ids": [
+            1,
+            2
+        ],
+        "start": 10.0,
+        "end": 23.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Um, well, I actually really like, uh, bouldering and there are many opportunities to do that in Nuremberg.",
+        "original_ids": [
+            1,
+            2
+        ],
+        "start": 23.080000000000002,
+        "end": 31.96
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "There are many opportunities in Nuremberg. How many are there?",
+        "original_ids": [
+            3
+        ],
+        "start": 30.0,
+        "end": 36.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Uh, to be frank, I'm not even sure, but, um, I vary between three polar, um, locations.",
+        "original_ids": [
+            3
+        ],
+        "start": 37.08,
+        "end": 44.52
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, can you give me a short overview of all three?",
+        "original_ids": [
+            4
+        ],
+        "start": 46.0,
+        "end": 51.0
+    },
+    {
+        "speaker": "P1",
+        "text": "So that's, uh, yeah, sure. So there's one in the Steinbock. Uh, so that's very in the, uh, in the west of Nuremberg.",
+        "original_ids": [
+            4,
+            5,
+            6
+        ],
+        "start": 46.22,
+        "end": 61.96
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, and do you do anything else exercise wise in Nuremberg?",
+        "original_ids": [
+            5
+        ],
+        "start": 60.0,
+        "end": 88.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Then you have, uh, one in the south, um, the E4, and then you have one in the north. Um, so they are really good distributed over the whole city. So if you're very spontaneous, you're always near one of those locations. Yeah.",
+        "original_ids": [
+            7,
+            8,
+            9,
+            10
+        ],
+        "start": 62.0,
+        "end": 87.16
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "One last longer statement.",
+        "original_ids": [
+            6
+        ],
+        "start": 88.0,
+        "end": 91.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Oh, well, yeah. Sometimes I go squashing for example. Um, but there aren't as many opportunities as for bouldering.",
+        "original_ids": [
+            11,
+            12,
+            13
+        ],
+        "start": 91.48,
+        "end": 100.76
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, I also let me interrupt you so we can see how that looks. But what is squashing?",
+        "original_ids": [
+            7
+        ],
+        "start": 99.0,
+        "end": 104.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Uh, squashing, it's kind of like, uh, playing tennis, but, or badminton, you know, with a bracket, um, but you have a, um, rubber ball and are playing against",
+        "original_ids": [
+            14,
+            15
+        ],
+        "start": 105.48,
+        "end": 118.0
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, and this really exhausting, right? I've seen this before.",
+        "original_ids": [
+            8
+        ],
+        "start": 118.0,
+        "end": 133.0
+    },
+    {
+        "speaker": "P1",
+        "text": "the wall and it, uh, and kind of use the walls in your favor to all play your opponent. Yeah.",
+        "original_ids": [
+            16,
+            17
+        ],
+        "start": 118.0,
+        "end": 131.0
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Okay, good. I think we have enough. Thank you very much. Any last word?",
+        "original_ids": [
+            9
+        ],
+        "start": 133.0,
+        "end": 142.0
+    },
+    {
+        "speaker": "P1",
+        "text": "Thanks for the interview.",
+        "original_ids": [
+            18
+        ],
+        "start": 140.84,
+        "end": 141.92
+    },
+    {
+        "speaker": "Interviewer",
+        "text": "Amazing. Okay, I will stop the recording. Yes. Thank you.",
+        "original_ids": [
+            10
+        ],
+        "start": 142.0,
+        "end": 147.0
+    }
+]
